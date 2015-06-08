@@ -42,5 +42,5 @@ mongodump 命令其实包含很多选项。
 
 该命令输入结果如下图所示：  
 
-（图）
+![mongorestore](images/mongorestore.png)
 

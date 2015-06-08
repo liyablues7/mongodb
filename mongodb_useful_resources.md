@@ -8,11 +8,11 @@
 
 ## 有关 MongoDB 的一些好书  
 
-[*MongoDB Applied Design Patterns*](http://www.amazon.com/exec/obidos/ASIN/1449340040/httpwwwtuto0a-20)  
-[*MongoDB Aggregation Framework Principles and Examples*](http://www.amazon.com/exec/obidos/ASIN/B00DGKGWE4/httpwwwtuto0a-20)
-[*MongoDB: The Definitive Guide*](http://www.amazon.com/exec/obidos/ASIN/1449381561/httpwwwtuto0a-20)
-[*MongoDB in Action*](http://www.amazon.com/exec/obidos/ASIN/1935182870/httpwwwtuto0a-20)
-[*Scaling MongoDB*](http://www.amazon.com/exec/obidos/ASIN/B004LRPBD4/httpwwwtuto0a-20)
-[*50 Tips and Tricks for MongoDB Developers*](http://www.amazon.com/exec/obidos/ASIN/1449304613/httpwwwtuto0a-20)
+- [*MongoDB Applied Design Patterns*](http://www.amazon.com/exec/obidos/ASIN/1449340040/httpwwwtuto0a-20)  
+- [*MongoDB Aggregation Framework Principles and Examples*](http://www.amazon.com/exec/obidos/ASIN/B00DGKGWE4/httpwwwtuto0a-20)
+- [*MongoDB: The Definitive Guide*](http://www.amazon.com/exec/obidos/ASIN/1449381561/httpwwwtuto0a-20)
+- [*MongoDB in Action*](http://www.amazon.com/exec/obidos/ASIN/1935182870/httpwwwtuto0a-20)
+- [*Scaling MongoDB*](http://www.amazon.com/exec/obidos/ASIN/B004LRPBD4/httpwwwtuto0a-20)
+- [*50 Tips and Tricks for MongoDB Developers*](http://www.amazon.com/exec/obidos/ASIN/1449304613/httpwwwtuto0a-20)
 
 

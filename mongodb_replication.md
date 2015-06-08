@@ -21,7 +21,11 @@ MongoDB 使用副本集（replica set）来实现复制操作。副本集是一�
 
 下图展示了一个典型的 MongoDB 复制图。客户端应用总是跟主节点交互，主节点将数据复制到从节点上。  
 
-》》》
+![replication](images/replication.png)  
+
+
+
+
 
 ## 副本集特点  
 
@@ -41,8 +45,8 @@ MongoDB 使用副本集（replica set）来实现复制操作。副本集是一�
 
 2. 指定 **--replSet** 选项来开启 MongoDB 服务器。**--replSet** 的基本格式如下：  
 
-`mongod --port "PORT" --dbpath "YOUR_DB_DATA_PATH" --replSet "REPLICA_SET_INSTANCE_NAME"`  
-
+	`mongod --port "PORT" --dbpath "YOUR_DB_DATA_PATH" --replSet "REPLICA_SET_INSTANCE_NAME"`  
+	
 ### 范例  
 
 `mongod --port 27017 --dbpath "D:\set up\mongodb\data" --replSet rs0`  

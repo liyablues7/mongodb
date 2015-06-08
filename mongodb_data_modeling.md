@@ -21,33 +21,33 @@ MongoDB 中的数据模式非常灵活。同一集合中的文档不需要具有
 
 在 RDBMS 中，设计一个能够满足上述需求的数据库模式至少需要 3 个表。如下图所示。  
 
-![rdbms1](http://www.tutorialspoint.com/mongodb/images/rdbms.png)  
+![rdbms1](images/rdbms.png)  
 
 在 MongoDB 中，设计出来的模式却只有一个集合 post，其结构如下：    
 
 ```
 {
-_id: POST_ID
-title: TITLE_OF_POST, 
-description: POST_DESCRIPTION,
-by: POST_BY,
-url: URL_OF_POST,
-tags: [TAG1, TAG2, TAG3],
-likes: TOTAL_LIKES, 
-comments: [	
-{
-user:'COMMENT_BY',
-message: TEXT,
-dateCreated: DATE_TIME,
-like: LIKES 
-},
-{
-user:'COMMENT_BY',
-message: TEXT,
-dateCreated: DATE_TIME,
-like: LIKES
-}
-]
+   _id: POST_ID
+   title: TITLE_OF_POST, 
+   description: POST_DESCRIPTION,
+   by: POST_BY,
+   url: URL_OF_POST,
+   tags: [TAG1, TAG2, TAG3],
+   likes: TOTAL_LIKES, 
+   comments: [	
+      {
+         user:'COMMENT_BY',
+         message: TEXT,
+         dateCreated: DATE_TIME,
+         like: LIKES 
+      },
+      {
+         user:'COMMENT_BY',
+         message: TEXT,
+         dateCreated: DATE_TIME,
+         like: LIKES
+      }
+   ]
 }   
 ```  
 

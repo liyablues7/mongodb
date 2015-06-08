@@ -17,7 +17,7 @@
 下图展示了 MongoDB 使用分片集群的情形：  
 
 
-
+![sharding](images/sharding.png)
 
 
 在上图中，有三个组件值得说明：  
