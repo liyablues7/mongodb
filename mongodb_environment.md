@@ -108,13 +108,13 @@ D:\set up\mongodb\bin>mongo.exe
 
 要想获取命令列表，在 mongodb 客户端中输入 **db.help()**，将显示如下图所示的命令列表：    
 
-![db_help](http://www.tutorialspoint.com/mongodb/images/db_help.png)  
+![db_help](images/db_help.png)  
 
 ## MongoDB 统计信息  
 
 要想获取 MongoDB 服务器的统计信息，在 mongodb 客户端中输入 **db.stat()**，随即将显示数据库名称、集合数目，以及数据库中的文档等信息。如图所示：  
 
-![db_stats](http://www.tutorialspoint.com/mongodb/images/db_stats.png)
+![db_stats](images/db_stats.png)
 
 
 
